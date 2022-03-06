@@ -14,7 +14,7 @@ The goal of this challege is to refactor an existing webpage to ensure it meets 
 - CSS
 
 ## Steps taken
-To complete this taks the following steps were taken: 
+To complete this task the following steps were taken: 
 - Structural contnet both added to HTML and CSS: header, main content, additional content, page footer.
 - Added empty line to make HTML sections easier identify.
 - Added alt propertiies with description to the images.
